@@ -1,0 +1,117 @@
+2023-10-04 01:34:15 info: tempDirectory:c:\Users\risha\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-10-04 01:34:15 info: Extraction complete for source: c:\Users\risha\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\risha\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-10-04 01:34:15 info: Congratulations, your extension "Embold" is now active!
+2023-10-04 01:34:28 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/logo.svg
+2023-10-04 01:34:28 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:29 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/setupTests.js
+2023-10-04 01:34:29 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/reportWebVitals.js
+2023-10-04 01:34:29 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:29 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:33 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/App.test.js
+2023-10-04 01:34:33 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:42 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/public/favicon.ico
+2023-10-04 01:34:42 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:42 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/public/favicon.ico
+2023-10-04 01:34:42 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:49 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/public/logo192.png
+2023-10-04 01:34:49 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/public/logo192.png
+2023-10-04 01:34:49 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:49 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:49 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/public/logo512.png
+2023-10-04 01:34:49 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:49 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/public/manifest.json
+2023-10-04 01:34:49 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:34:49 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/public/robots.txt
+2023-10-04 01:34:49 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:43:50 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/node_modules/fsevents
+2023-10-04 01:43:50 error: SQLITE_ERROR: no such table: issues
+2023-10-04 01:56:08 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/node_modules/fsevents
+2023-10-04 01:56:08 error: SQLITE_ERROR: no such table: issues
+2023-10-04 13:42:03 info: tempDirectory:c:\Users\risha\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-10-04 13:42:03 info: Extraction complete for source: c:\Users\risha\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\risha\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-10-04 13:42:03 info: Congratulations, your extension "Embold" is now active!
+2023-10-04 16:49:50 info: tempDirectory:c:\Users\risha\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-10-04 16:49:50 info: Extraction complete for source: c:\Users\risha\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\risha\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-10-04 16:49:50 info: Congratulations, your extension "Embold" is now active!
+2023-10-04 16:57:37 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/pages
+2023-10-04 16:57:37 error: SQLITE_ERROR: no such table: issues
+2023-10-04 16:57:47 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/h
+2023-10-04 16:57:47 error: SQLITE_ERROR: no such table: issues
+2023-10-04 16:58:02 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/Home
+2023-10-04 16:58:02 error: SQLITE_ERROR: no such table: issues
+2023-10-04 16:58:56 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/components/Home/RegistrationPage.js
+2023-10-04 16:58:56 error: SQLITE_ERROR: no such table: issues
+2023-10-04 16:59:08 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/components/Home/RegistrationPage.css
+2023-10-04 16:59:08 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:01:56 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/components/Home/FrontPage.css
+2023-10-04 17:01:56 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:01:56 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/components/Home/FrontPage.jsx
+2023-10-04 17:01:56 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:02:18 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/components/Home/Home/FrontPage.css
+2023-10-04 17:02:18 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:02:18 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/components/Home/Home/FrontPage.jsx
+2023-10-04 17:02:18 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:02:21 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/components/Home/Home
+2023-10-04 17:02:21 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:08:53 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/public/Super_app_logo.png
+2023-10-04 17:08:53 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:17:03 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/images/background.png
+2023-10-04 17:17:03 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:17:03 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/images/background.png
+2023-10-04 17:17:03 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:17:03 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/images/superApp.png
+2023-10-04 17:17:03 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:17:10 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/images
+2023-10-04 17:17:10 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:21:15 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/assets
+2023-10-04 17:21:15 error: SQLITE_ERROR: no such table: issues
+2023-10-04 17:21:51 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/components/Category
+2023-10-04 17:21:51 error: SQLITE_ERROR: no such table: issues
+2023-10-04 21:07:17 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/assetts
+2023-10-04 21:07:17 error: SQLITE_ERROR: no such table: issues
+2023-10-04 21:08:01 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/src/Images
+2023-10-04 21:08:01 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:11:32 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/tBejOI1
+2023-10-04 23:11:32 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/HEAD.lock
+2023-10-04 23:11:32 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/config.lock
+2023-10-04 23:11:32 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:11:32 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:11:32 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:11:36 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-1
+2023-10-04 23:11:36 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-2
+2023-10-04 23:11:36 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-3
+2023-10-04 23:11:36 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:11:36 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:11:36 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:05 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-6
+2023-10-04 23:14:05 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-7
+2023-10-04 23:14:05 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:05 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:05 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-8
+2023-10-04 23:14:05 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-9
+2023-10-04 23:14:05 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:05 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:37 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-10
+2023-10-04 23:14:38 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:38 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-11
+2023-10-04 23:14:38 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:38 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-12
+2023-10-04 23:14:38 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:38 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-13
+2023-10-04 23:14:38 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-14
+2023-10-04 23:14:38 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:38 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:42 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-15
+2023-10-04 23:14:42 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:43 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/index.lock
+2023-10-04 23:14:43 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:44 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-16
+2023-10-04 23:14:44 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-17
+2023-10-04 23:14:44 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:44 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:45 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-19
+2023-10-04 23:14:45 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:45 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-20
+2023-10-04 23:14:45 error: SQLITE_ERROR: no such table: issues
+2023-10-04 23:14:45 info: file:///c%3A/Users/risha/OneDrive/Desktop/super_app/.git/fsmonitor--daemon/cookies/27312-21
+2023-10-04 23:14:45 error: SQLITE_ERROR: no such table: issues
