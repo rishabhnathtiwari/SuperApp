@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Inter&family=Roboto&family=Single+Day&display=swap');
 
+#title {
+    color: #72DB73;
+    font-family: 'Single Day', cursive;
+    font-size: 50px;
+}
+
+.createtitle{
+    color: #fff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+   
+}
+
 .RegisterationForm{
     width: 50vw;
     display: flex;
@@ -10,14 +23,6 @@
     font-family: 'DM Sans', sans-serif;
     gap: 0.5rem;
 }
-
-.createtitle{
-    color: #fff;
-    padding-top: 25px;
-    padding-bottom: 25px;
-   
-}
-
 
 .data {
     width: 53%;
@@ -42,16 +47,11 @@
     cursor: pointer;
 }
 
-#title {
-    color: #72DB73;
-    font-family: 'Single Day', cursive;
-    font-size: 50px;
-}
 
 #checkbox1 {
     display: flex;
     position: relative;
-    right: 7%;
+    right: 9%;
     color: #7C7C7C
 }
 

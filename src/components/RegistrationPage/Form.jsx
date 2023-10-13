@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import './Form.css';
 
 
+
 function Form() {
 
   const [data, setdata] = useState({
@@ -45,30 +46,35 @@ function Form() {
     const ValidationErrors = {}
 
     if (!NameRegex.test(data.name)) {
-      ValidationErrors.name = "Required Field Must Contain Alphabets and Minimum of 5 Letters"
+      ValidationErrors.name = "*Required Field Must Contain Alphabets and Minimum of 5 Letters"
 
     }
     if (!UserNameRegex.test(data.username)) {
-      ValidationErrors.username = "Required Field Must be a Combination of Alphabets and Digits Between 6 to 10 letters"
+      ValidationErrors.username = "*Required Field Must be a Combination of Alphabets and Digits Between 6 to 10 letters"
 
     }
     if (!EmailRegex.test(data.email)) {
-      ValidationErrors.email = "Required Field Email Format Invalid"
+      ValidationErrors.email = "*Required Field Email Format Invalid"
 
     }
     if (!NumberRegex.test(data.mobile)) {
-      ValidationErrors.number = "Required Field Number should be of 10 digits"
+      ValidationErrors.number = "*Required Field Number should be of 10 digits"
 
     }
     if (!document.getElementById('checkbox').checked) {
-      ValidationErrors.checker = "Check this box if you want to proceed and explore"
+      ValidationErrors.checker = "✅Check this box if you want to proceed and explore"
     }
 
+
+    
 
 
     setError(ValidationErrors);
     if (Object.keys(ValidationErrors).length === 0) {
       localStorage.setItem('formData', JSON.stringify(data));
+
+// For redirecting to category page____________________________________________________________________
+    redirectTo("/categoriespage")
 
       setdata({
         name: "",

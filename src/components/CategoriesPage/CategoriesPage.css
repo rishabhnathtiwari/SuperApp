@@ -1,0 +1,144 @@
+.maincontainer {
+    display: flex;
+  }
+
+.LeftCont{
+    width: 40vw;
+    height: 90vh;
+    padding-left: 9vw;
+    padding-top: 8vh;
+}
+
+.text{
+    color: #fff;
+    font-size: 3.3rem;
+    font-family: 'DM Sans', sans-serif;
+    padding-top: 5%;
+    line-height: 1.3;
+
+}
+
+#HeadTitle{
+    font-size: 3.3rem;
+    font-family: 'Single Day', cursive;
+    color: #72DB73;
+}
+
+
+.RightCont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 12vh;
+    padding-left: 10vw;
+    padding-right: 3vw;
+    width: 40vw;
+}
+
+
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.cardContainer {
+    border: 5px solid;
+    border-radius: 10px;
+    padding: 10px 0;
+    margin-bottom: 15px;
+}
+
+.cardContainer:hover {
+    transform: translateY(1px);
+    cursor: pointer;
+}
+
+
+.cardTitle {
+    color: #fff;
+    font-family: 'DM Sans', sans-serif;
+    padding: 10px;
+    padding-top: 0;
+}
+
+.cardImage {
+    width: 160px;
+    height: 120px;
+    padding: 0px 10px;
+}
+
+.NxtBtn {
+    background-color: #11B800;
+    font-family: 'DM Sans', sans-serif;
+    padding: 5px;
+    margin-left: 75%;
+    border: #11B800;
+    border-radius: 18px;
+    color: #fff;
+   
+    letter-spacing: 1.5px;
+    font-size: 1.3rem;
+}
+
+.NxtBtn:hover {
+    transform: translateY(1px);
+    cursor: pointer;
+}
+
+@media screen and (max-width:768px) {
+
+    .RightContainer {
+        width: 65vw;
+    }
+
+    .LeftContainer {
+        width: 35vw;
+    }
+}
+
+.cardContainer.clicked {
+    border: 5px solid #11B800;
+    border-style:solid;
+}
+
+
+.select{
+
+    margin-top: 50px;
+    display: inline-flex;
+    flex-wrap: wrap;
+
+}
+
+.selected{
+    background-color: #11B800;
+    font-family: 'DM Sans', sans-serif;
+    padding: 10px;
+    padding-top: 3;
+    margin: 10px;
+    border: #11B800;
+    border-radius: 12px;
+    color: #fff;
+    letter-spacing: 1.5px;
+    font-size: 1.5rem;
+}
+
+.CancelIcon{
+    position: relative;
+    top: 6px;
+}
+
+.CancelIcon:hover{
+    cursor: pointer;
+    color: red;
+}
+
+.Error{
+    color: red;
+    font-size: 1.6rem;
+    margin-top: 20px;
+    font-family: 'DM Sans', sans-serif;
+}

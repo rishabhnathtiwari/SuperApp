@@ -1,11 +1,10 @@
-#frontImg{
+.frontImage{
     z-index: -1;
     height: 99.3vh;
     width: 47vw;
 }
 
-
-#desc{
+#text{
     width: 40%;
     font-size: 2.5em;
     font-weight: 900;
@@ -16,8 +15,9 @@
     color: white;
     font-family: 'Roboto', sans-serif;
 }
+
 @media screen and (max-width: 748px){
-    #frontImg{
+    .frontImage{
     height: 100vh;
     }
 }
