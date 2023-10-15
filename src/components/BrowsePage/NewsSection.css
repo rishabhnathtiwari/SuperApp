@@ -1,0 +1,62 @@
+.News_Txt{
+    background-color: white;
+    width: calc(23vw - 20px);
+    height: 22vh;
+    padding: 10px;
+    padding-top: 20px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    position: relative;
+    bottom: 4px;
+    border-radius: 0px 0px 10px 10px;
+
+}
+
+
+.News_Image{
+
+    width: 23vw;
+    height: 55vh;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.News_Title{
+    width: 23vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: absolute;
+    color: white;
+    height: 26vh;
+    top: 30vh;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.5);
+    font-family: 'DM Sans', sans-serif;
+    
+}
+
+
+.ReadMore a{
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.Nxt_News{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+
+.Nws_Err{
+
+    color: red;
+    font-size: 2.5rem;
+    font-weight: 600;
+    font-family: 'DM Sans', sans-serif;
+    height: 88vh;
+    width: 30vw;
+    line-height: 1.5;
+
+}

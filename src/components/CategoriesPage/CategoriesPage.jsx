@@ -41,7 +41,7 @@ const CategoriesPage = () => {
     } else {
       setErrorMessage('');
       localStorage.setItem('selectedGenre', JSON.stringify(selectedGenre));
-
+      redirectTo("/browsepage")
       
     }
   };
