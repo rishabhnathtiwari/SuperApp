@@ -1,11 +1,16 @@
+
 .userInfo{
     display: flex;
     flex-wrap: wrap;
     width: 31vw;
     background-color: #5746EA;
     border-radius: 20px;
+    margin-top: 20px;
+    margin-left: -100px;
+    margin-bottom: 5px;
     padding: 18px;
     font-family: 'DM Sans', sans-serif;
+    
 
 }
 .profilepic{

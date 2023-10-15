@@ -1,0 +1,71 @@
+.timecontainer{
+
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 53vw;
+    background-color: #1E2343;
+    text-align: center;
+    color: white;
+    height: 28vh;
+    margin-top: 15px;
+    margin-left: -100px;
+    border-radius: 20px;
+    line-height: 2.0;
+    font-family: 'DM Sans', sans-serif;
+    color: #949494;
+}
+
+.timer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.timer p{
+    display: flex;
+    justify-content: space-around;
+}
+
+.timer img{
+    cursor: pointer;
+}
+
+.timer h1{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-top: 19px;
+}
+.timer h2{
+    font-size: 40px;
+    color: white;
+}
+
+.startbtn{
+ 
+    width: 50%;
+    position: relative;
+    left: 42%;
+    background-color:#FF6A6A;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    font-weight: 600;
+    border-radius: 10px;
+    bottom: 12px;
+    border: #FF6A6A;
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
+
+.startbtn :hover{
+
+    transform: translateY(-1px);
+
+}
+
+.countDown{
+    padding-top: 12px;
+    color: white;
+}

@@ -12,6 +12,8 @@
     font-family: 'DM Sans', sans-serif;
     color: white;
     background-color:#FF4ADE;
+    margin-top: 5px;
+    margin-left: -100px;
     padding: 0px 13px;
     border-radius: 12px 12px 0px 0px;
 
@@ -25,6 +27,8 @@
     color: white;
     justify-content: space-around;
     padding: 5px 13px;
+    margin-top: 10px;
+    margin-left: -100px;
     background-color: #101744;
     border-radius: 0px 0px 10px 10px;
     text-align: center;

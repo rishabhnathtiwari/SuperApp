@@ -2,8 +2,6 @@ import './NewsSection.css';
 import React, { useEffect, useState } from 'react';
 
 
-
-
 const NewsSection = () => {
 
     // State variables
