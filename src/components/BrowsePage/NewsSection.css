@@ -1,12 +1,12 @@
 .News_Txt{
     background-color: white;
-    width: calc(23vw - 20px);
-    height: 22vh;
+    width: calc(24vw - 20px);
+    height: 32vh;
     padding: 10px;
     padding-top: 20px;
+    margin-left: -25px;
     font-family: 'DM Sans', sans-serif;
     font-size: 18px;
-    margin-top: 30px;
     position: relative;
     bottom: 4px;
     border-radius: 0px 0px 10px 10px;
@@ -14,9 +14,10 @@
 }
 .News_Image{
 
-    width: 23vw;
-    height: 68vh;
-    margin-top: 30px;
+    width: 24vw;
+    height: 55vh;
+    margin-top: 25px;
+    margin-left: -25px;
     border-radius: 10px 10px 0px 0px;
 }
 
@@ -26,6 +27,7 @@
     flex-direction: column;
     justify-content: space-around;
     position: absolute;
+    margin-left: -35px;
     color: white;
     height: 26vh;
     top: 30vh;

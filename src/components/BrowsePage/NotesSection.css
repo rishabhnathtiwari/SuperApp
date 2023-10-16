@@ -1,0 +1,30 @@
+.fixedtxt{
+    background-color: #F1C75B;
+    border-radius: 14px 14px 0px 0px;
+    border: #F1C75B;
+    outline: #F1C75B;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: -70px;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    width: 29.5vw;
+    height: 24vh;
+}
+
+
+.txt{
+    display: inline-block;
+    background-color: #F1C75B;
+    outline: #F1C75B;
+    border: #F1C75B;
+    width: 29.5vw;
+    height: 34.2vh;
+    margin-left: -70px;
+    border-radius: 0px 0px 16px 16px;
+    padding: 10px;
+    padding-top: 0px;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    resize: none;
+}

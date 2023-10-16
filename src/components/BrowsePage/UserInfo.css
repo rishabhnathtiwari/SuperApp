@@ -2,19 +2,20 @@
 .userInfo{
     display: flex;
     flex-wrap: wrap;
-    width: 31vw;
+    width: 32vw;
     background-color: #5746EA;
     border-radius: 20px;
     margin-top: 20px;
-    margin-left: -100px;
+    margin-left: -40px;
     margin-bottom: 5px;
     padding: 18px;
     font-family: 'DM Sans', sans-serif;
+    height: 33vh;
     
 
 }
-.profilepic{
-    height: 28vh;
+.profile_img{
+    height: 33vh;
     padding: 1vh;
 }
 
@@ -28,11 +29,11 @@
 }
 
 .user_data p{
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .user_data h2{
-    font-size: 32px;
+    font-size: 28px;
 }
 
 .userGenre{
@@ -41,7 +42,7 @@
     flex-wrap: wrap;
     flex-direction: row-reverse;
     color: white;
-    width: 23vw;
+    width: 21vw;
     overflow: auto; 
 }
 .userGenre p{

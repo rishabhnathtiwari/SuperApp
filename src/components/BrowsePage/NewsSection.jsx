@@ -58,9 +58,7 @@ const NewsSection = () => {
           
           <p className='News_Txt'>{news.articles[articleIdx].description} 
 
-          <span className='ReadMore'>
-            <a href={news.articles[articleIdx].url} target='_blank' rel='noopener noreferrer'>
-              ...Read more ⇨</a></span>
+         
          <h4 className='Nxt_News' onClick={nextNews}>Next News →</h4>
 
           </p>
