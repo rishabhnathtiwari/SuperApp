@@ -37,10 +37,12 @@ const CategoriesPage = () => {
   const handleNextPageClick = () => {
 
     if (selectedGenre.length < 3) {
-      setErrorMessage('Minimum 3 category required');
+
+      setErrorMessage('⚠ Choose Atleast 3 categories ');
     } else {
       setErrorMessage('');
       localStorage.setItem('selectedGenre', JSON.stringify(selectedGenre));
+
       redirectTo("/browsepage")
       
     }
