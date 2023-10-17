@@ -139,7 +139,7 @@ const CategoriesPage = () => {
                 selectedGenres={selectedGenre} />
               ))}
               </div>
-              <button className="NxtBtn" onClick={handleNextPageClick}><b>Next Page</b></button>
+              <button className="NxtBtn1" onClick={handleNextPageClick}><b>Next Page</b></button>
             </div>
           </div>
         )
