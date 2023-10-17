@@ -47,9 +47,33 @@
 .Nxt_News{
     position: absolute;
     bottom: 10px;
+    color: darkblue;
     right: 10px;
     cursor: pointer;
 }
+
+
+
+#NxtBtn2 {
+    background-color: #11B800;
+    font-family: 'DM Sans', sans-serif;
+    padding: 6px 24px;
+    border: #11B800;
+    border-radius: 14px;
+    color: #fff;
+    letter-spacing: 1.7px;
+    font-size: 1.3rem;
+    position: relative;
+    top: 12px;
+    margin-left: 67%;
+}
+
+#NxtBtn2:hover {
+    transform: translateY(1px);
+    cursor: pointer;
+}
+
+
 
 
 .Nws_Err{

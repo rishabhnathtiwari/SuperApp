@@ -1,9 +1,12 @@
 import './NewsSection.css';
 import React, { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 
 const NewsSection = () => {
 
+//For Naviagation
+  const redirectTo = useNavigate();
     // State variables
     const [news, setNews] = useState('');
     const [articleIdx, setArticleIdx] = useState(0);
@@ -36,6 +39,12 @@ const NewsSection = () => {
         setArticleIdx(newIdx);
       }
     };
+    
+
+   //Function to handle next page click
+    const handleNxtPageClick = () => {
+      redirectTo('/selectedgenres');
+    };
 
 
 
@@ -59,7 +68,7 @@ const NewsSection = () => {
           <p className='News_Txt'>{news.articles[articleIdx].description} 
 
          
-         <h4 className='Nxt_News' onClick={nextNews}>Next News →</h4>
+         <h3 className='Nxt_News' onClick={nextNews}>Next News →</h3>
 
           </p>
 
@@ -68,6 +77,7 @@ const NewsSection = () => {
       )}
       
 
+      <button id="NxtBtn2" onClick={handleNxtPageClick}><b>Browse</b></button>
       
     </div>
   )
