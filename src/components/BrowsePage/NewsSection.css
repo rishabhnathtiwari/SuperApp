@@ -1,7 +1,7 @@
 .News_Txt{
     background-color: white;
     width: calc(24vw - 20px);
-    height: 32vh;
+    height: 31.4vh;
     padding: 10px;
     padding-top: 20px;
     margin-left: -25px;
@@ -29,7 +29,7 @@
     position: absolute;
     margin-left: -35px;
     color: white;
-    height: 26vh;
+    height: 23vh;
     top: 30vh;
     margin-top: 30px;
     padding: 20px;
