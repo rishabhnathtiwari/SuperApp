@@ -110,7 +110,7 @@ function Form() {
       {error && <div className="error">{error.mobile}</div>}
 
       <div id='checkbox1'><input type='checkbox' id='checkbox'></input>
-      <label for='checkbox2'>Share my Registration Data with Superapp</label></div>
+      <label for='checkbox2'><p id='checkbox2'>Share my Registration Data with Superapp</p></label></div>
 
       {error && <div className="error">{error.checker}</div>}
       <button id='btn' onClick={handleSubmit}>SIGN UP</button>

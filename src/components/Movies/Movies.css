@@ -22,7 +22,36 @@
 
     color: white;
     font-family: 'DM Sans', sans-serif;
-    margin-left: 35px;
+    margin-left: 43px;
     margin-top: 20px;
 }
 
+
+.genreHeadTitle{
+    color: #878787;
+    margin-top: 20px;
+    margin-left: 48px;
+    font-family: 'DM Sans', sans-serif;
+    height: 40px;
+    font-size: 20px;
+
+}
+
+
+.movies_posters{
+    display: flex;
+    justify-content: space-around;
+}
+
+.genreimg{
+/* 
+    height: 200px;
+    width: 275px; */
+    /* border-radius: 10px; */
+   width: 341.93px;
+   height: 192.33px;
+   top: 267px;
+   left: 92px;
+   border-radius: 9.16px;
+
+}

@@ -22,7 +22,7 @@ const WeatherSection = () => {
 
         const fetchWeather = async () => {
           try {
-            const result = await fetch("http://api.weatherapi.com/v1/current.json?key=93ae3766614848499db101510232308&q=kolkata&aqi=no");
+            const result = await fetch("https://api.weatherapi.com/v1/current.json?key=93ae3766614848499db101510232308&q=kolkata&aqi=no");
             const data = await result.json();
             setWeather(data);
           } 
