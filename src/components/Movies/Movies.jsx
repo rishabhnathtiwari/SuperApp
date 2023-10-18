@@ -1,12 +1,15 @@
 import React, { useEffect, useState } from 'react'
-import './Movies.css';
+import { useNavigate } from 'react-router-dom';
 import Profile from '../../imagefolder/profilepicture.png'
+import './Movies.css';
 
 
 const MoviesSection = () => {
 
   const [MoviesGenre,setMoviesGenre]=useState({});
   const storedSelectedGenre =JSON.parse(localStorage.getItem('selectedGenre')) ||[];
+
+  const redirectTo = useNavigate();
   
 
   
@@ -76,11 +79,20 @@ const MoviesSection = () => {
     }
   }, [storedSelectedGenre]);
 
+
+  const handleBtnClicktohomepage = () => {
+    redirectTo('/categoriespage');
+  };
+
+
+
   return (
     <>
     <img className='profile_picture' src={Profile} alt='Profile_Picture'/>
+
     <h1 className='MainHeader'> Super App</h1>
     <h2 className='MainTxt'> Entertainment according to your choice </h2>
+
     {Object.keys(MoviesGenre).map((genre) => (
         <div key={genre}>
           <h3 className='genreHeadTitle'>{genre}</h3>
@@ -96,9 +108,11 @@ const MoviesSection = () => {
           </div>
         </div>
       ))}
+       <button id='NxtBtn3' onClick={handleBtnClicktohomepage}> <b> ↻ Home Page</b></button>
+
     </>
     
-  )
+  );
 }
 
 export default MoviesSection;

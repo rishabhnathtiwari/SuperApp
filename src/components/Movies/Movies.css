@@ -30,7 +30,7 @@
 .genreHeadTitle{
     color: #878787;
     margin-top: 20px;
-    margin-left: 48px;
+    margin-left: 54px;
     font-family: 'DM Sans', sans-serif;
     height: 40px;
     font-size: 20px;
@@ -44,14 +44,31 @@
 }
 
 .genreimg{
-/* 
-    height: 200px;
-    width: 275px; */
-    /* border-radius: 10px; */
-   width: 341.93px;
-   height: 192.33px;
+
+   width: 300.93px;
+   height: 178.33px;
    top: 267px;
    left: 92px;
    border-radius: 9.16px;
 
+}
+
+#NxtBtn3{
+    background-color: #11B800;
+    font-family: 'DM Sans', sans-serif;
+    padding: 5px 20px;
+    border: #11B800;
+    border-radius: 15px;
+    color: #fff;
+    letter-spacing: 1.8px;
+    font-size: 1.2rem;
+    position: relative;
+    top: -955px;
+    margin-left: 85.9%;
+    margin-top: 1%;
+}
+
+#NxtBtn3:hover{
+    transform: translateY(1px);
+    cursor: pointer;
 }
