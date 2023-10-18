@@ -39,11 +39,16 @@ const NewsSection = () => {
         setArticleIdx(newIdx);
       }
     };
+
+
     
 
    //Function to handle next page click
-    const handleNxtPageClick = () => {
-      redirectTo('/selectedgenres');
+
+    const handleNxtPageBtn = () => {
+      
+      redirectTo('/movies');
+
     };
 
 
@@ -77,7 +82,7 @@ const NewsSection = () => {
       )}
       
 
-      <button id="NxtBtn2" onClick={handleNxtPageClick}><b>Browse</b></button>
+      <button id="NxtBtn2" onClick={handleNxtPageBtn}><b>Browse</b></button>
       
     </div>
   )

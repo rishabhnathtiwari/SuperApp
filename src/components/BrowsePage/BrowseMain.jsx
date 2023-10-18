@@ -29,4 +29,4 @@ const BrowseMain = () => {
   )
 }
 
-export default BrowseMain
+export default BrowseMain;

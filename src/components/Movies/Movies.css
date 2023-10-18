@@ -1,0 +1,28 @@
+.profile_picture{
+
+    height: 81px;
+    width: 81px;
+    border-radius: 50%;
+    display: inline;
+    position: absolute;
+    top: 23px;
+    right: 3%;
+
+}
+
+.MainHeader{
+    font-size: 3rem;
+    font-family: 'Single Day', cursive;
+    color: #72DB73;
+    margin-top: 3.8vh;
+    margin-left: 2vw;
+}
+
+.MainTxt{
+
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+

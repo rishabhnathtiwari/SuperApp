@@ -34,6 +34,7 @@ const CategoriesPage = () => {
     );
   };
   
+  
   const handleNextPageClick = () => {
 
     if (selectedGenre.length < 3) {
