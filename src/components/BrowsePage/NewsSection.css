@@ -76,11 +76,11 @@
 .Nws_Err{
 
     color: red;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 400;
     font-family: 'DM Sans', sans-serif;
     height: 68vh;
-    width: 20vw;
+    width: 15vw;
     line-height: 1.5;
 
 }
