@@ -3,7 +3,8 @@
 #title {
     color: #72DB73;
     font-family: 'Single Day', cursive;
-    font-size: 50px;
+    font-size: 2.5em;
+    margin-top: 5vh;
 }
 
 .createtitle{
@@ -14,8 +15,7 @@
 }
 
 .RegisterationForm{
-    width: 50vw;
-    display: flex;
+     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -25,8 +25,8 @@
 }
 
 .data {
-    width: 53%;
-    height: 3.1rem;
+    width: 64%;
+    height: 2.9rem;
     margin: 1%;
     padding-left: 3%;
     background-color: #292929;
@@ -35,10 +35,10 @@
 }
 
 #btn {
-    font-size: 20px;
+    font-size: 1em;
     font-weight: 600;
-    width: 55%;
-    height: 3rem;
+    width: 67%;
+    height: 2.4rem;
     color: white;
     background-color: #72DB73;
     border: #72DB73;
@@ -51,17 +51,19 @@
 #checkbox1 {
     display: flex;
     position: relative;
-    right: 8.5%;
-    color: #7C7C7C
+    right: 6.9%;
+    color: #7C7C7C;
+
 }
 
 #checkbox2 {
-    height: 22px;
-    margin-left: 8px;
+    height: 28px;
+    margin-left: 10px;
 }
 .terms{
     color: #7C7C7C;
-    width: 56%;
+    width: 61%;
+    font-size: 11px
     
 }
 
@@ -72,15 +74,12 @@
 
 .error {
     color: red;
-    font-size: 12px;
+    font-size: 10px;
 
 }
 
 @media screen and (max-width: 748px) {
-    #checkboxx {
-        right: 0%;
-    }
-
+   
     .data {
         width: 80%;
     }

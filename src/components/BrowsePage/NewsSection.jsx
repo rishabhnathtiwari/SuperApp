@@ -73,7 +73,7 @@ const NewsSection = () => {
           <p className='News_Txt'>{news.articles[articleIdx].description} 
 
          
-         <h3 className='Nxt_News' onClick={nextNews}>Next News →</h3>
+         <h4 className='Nxt_News' onClick={nextNews}>Next News →</h4>
 
           </p>
 

@@ -1,7 +1,7 @@
 .profile_picture{
 
-    height: 81px;
-    width: 81px;
+    height: 61px;
+    width: 61px;
     border-radius: 50%;
     display: inline;
     position: absolute;
@@ -11,7 +11,7 @@
 }
 
 .MainHeader{
-    font-size: 3rem;
+    font-size: 2.3rem;
     font-family: 'Single Day', cursive;
     color: #72DB73;
     margin-top: 3.8vh;
@@ -22,18 +22,18 @@
 
     color: white;
     font-family: 'DM Sans', sans-serif;
-    margin-left: 43px;
+    margin-left: 30px;
     margin-top: 20px;
 }
 
 
 .genreHeadTitle{
     color: #878787;
-    margin-top: 20px;
+    margin-top: 18px;
     margin-left: 54px;
     font-family: 'DM Sans', sans-serif;
     height: 40px;
-    font-size: 20px;
+    font-size: 16px;
 
 }
 
@@ -45,8 +45,8 @@
 
 .genreimg{
 
-   width: 300.93px;
-   height: 178.33px;
+   width: 210.93px;
+   height: 120.33px;
    top: 267px;
    left: 92px;
    border-radius: 9.16px;
@@ -61,11 +61,10 @@
     border-radius: 15px;
     color: #fff;
     letter-spacing: 1.8px;
-    font-size: 1.2rem;
+    font-size: 1rem;
     position: relative;
-    top: -955px;
-    margin-left: 85.9%;
-    margin-top: 1%;
+    margin-left: 83.5%;
+    margin-top: 2.5%;
 }
 
 #NxtBtn3:hover{

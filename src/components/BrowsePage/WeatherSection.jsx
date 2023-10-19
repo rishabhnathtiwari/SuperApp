@@ -86,7 +86,7 @@ const WeatherSection = () => {
 
             <div className='Condition' >
             <img src={weather.current.condition.icon} alt='Weather_Icon' height={85} width={85}/>
-            <p style={{width:"125px", fontSize:"20px"}}>{weather.current.condition.text}</p>
+            <p style={{width:"125px", fontSize:"16px"}}>{weather.current.condition.text}</p>
 
         </div>
        
@@ -94,7 +94,7 @@ const WeatherSection = () => {
 
 
         <div className='pressure'>
-         <p style={{fontSize:"40px"}}>{weather.current.temp_c}°C</p>
+         <p style={{fontSize:"32px"}}>{weather.current.temp_c}°C</p>
 
         <pre>
             <img src={ThermoImg} style={{position:"relative",top:"10px", paddingRight:"10px"}}/>

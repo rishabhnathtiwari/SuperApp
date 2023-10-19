@@ -1,10 +1,10 @@
 .News_Txt{
     background-color: white;
     width: calc(24vw - 20px);
-    height: 31.4vh;
+    height: 37.5vh;
     padding: 10px;
     padding-top: 20px;
-    margin-left: -25px;
+    margin-left: -33px;
     font-family: 'DM Sans', sans-serif;
     font-size: 18px;
     position: relative;
@@ -16,8 +16,7 @@
 
     width: 24vw;
     height: 55vh;
-    margin-top: 25px;
-    margin-left: -25px;
+    margin-left: -33px;
     border-radius: 10px 10px 0px 0px;
 }
 
@@ -29,7 +28,7 @@
     position: absolute;
     margin-left: -35px;
     color: white;
-    height: 23vh;
+    height: 8vh;
     top: 30vh;
     margin-top: 30px;
     padding: 20px;
@@ -62,18 +61,16 @@
     border-radius: 14px;
     color: #fff;
     letter-spacing: 1.7px;
-    font-size: 1.3rem;
+    font-size: .9rem;
     position: relative;
     top: 12px;
-    margin-left: 67%;
+    margin-left: 63%;
 }
 
 #NxtBtn2:hover {
     transform: translateY(1px);
     cursor: pointer;
 }
-
-
 
 
 .Nws_Err{

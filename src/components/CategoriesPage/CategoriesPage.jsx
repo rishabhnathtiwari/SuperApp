@@ -123,6 +123,7 @@ const CategoriesPage = () => {
 
     
     
+    
     <div className = 'select'>{selectedGenre.map((genre) => (
           <p className='selected'  style={{ backgroundColor: cardData.find((card) => card.name === genre)?.color }} ><b>{genre} <span className='CancelIcon' onClick={() => deleteItems(genre)}>
            <CloseIcon/>
